@@ -6,7 +6,7 @@ export const SITE_DESCRIPTION = "Learning in public while creating tutorials bas
 export const DEFAULT_OG_IMAGE =
 	'https://user-images.githubusercontent.com/6764957/147861359-3ad9438f-41d1-47c8-aa05-95c7d18497f0.png';
 export const MY_TWITTER_HANDLE = 'mschien_';
-// export const MY_YOUTUBE = 'https://youtube.com/fact0';
+export const MY_YOUTUBE = 'https://youtube.com/fact0';
 export const POST_CATEGORIES = ['Tutorial', 'Note', 'Essay', 'Tips']; // Other categories you can consider adding: Talks, Tutorials, Snippets, Podcasts, Notes...
 export const GH_PUBLISHED_TAGS = ['Published'];
 
