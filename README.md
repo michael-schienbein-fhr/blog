@@ -247,3 +247,4 @@ If all of this is annoying feel free to rip out the GitHub Issues CMS wiring and
   - SvelteKit Endpoints don't take over from SvelteKit dynamic param routes (`[slug].svelte` has precedence over `rss.xml.js`)
     - Aug 2022: now solved due to PlusKit
   - RSS Endpoint runs locally but doesn't run in Netlify because there's no access to the content in prod ([SvelteKit issue](https://github.com/sveltejs/kit/issues/3535))
+# blog
